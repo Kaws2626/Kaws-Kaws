@@ -9,7 +9,7 @@
 - <b>Predictive Analytics and Machine Learning </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
  - <b>Certifications </b>
-   - [Google Data Analytics Certificate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/certificate/IVQLR7JNCYBC) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
