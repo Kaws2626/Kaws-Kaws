@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Exploratory Data Analysis (EDA) & Visualization </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/Kaws2626/Tableau-1)
  - <b>SQL & Data Pipeline Projects</b>
    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Predictive Analytics and Machine Learning </b>
